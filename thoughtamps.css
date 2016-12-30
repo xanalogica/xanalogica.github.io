@@ -4,8 +4,8 @@
 /* http://html-color-codes.info/ */
 /* replacing #555 */
 body {
-  background: #fffff0;
-  color: #252525;
+  background: salmon /*#cfef80*/;
+  color: black /*#252525*/;
   /* font-family:Trebuchet MS,Verdana,Helvetica,sans-serif; */
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   padding-top: 1em; }
