@@ -15,8 +15,15 @@ CLOSED: [2016-12-30 Fri 00:45]
 
 Isn't the date the issue was closed enough?
 
-1. Fork the project
-2. Fix the timezone assertion error
-3. Breaks if timestamps are active
-4. If can't find something in one entry, it flows over into the next one
+- [ ] Fork the project
+- [ ] Fix the timezone assertion error
+- [ ] Breaks if timestamps are active
+- [ ] If can't find something in one entry, it flows over into the next one
+
+Ask:
+
+- [ ] why ust I have a LOGBOOK when CLOSED holds the timestamp it is finished?
+- [ ] so why do I need a CREATED property?
+- [ ] why not default the ID to the timestamp of when it was closed + the title?
+- [ ] need a hotkey to regenerate the blog!
 
