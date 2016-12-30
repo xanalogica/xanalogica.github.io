@@ -3,10 +3,10 @@
       xmlns:thr='http://purl.org/syndication/thread/1.0'
       xml:lang='en-us'>
   <title type="text">ThoughtAmps</title>
-  <id>//xanalogica.github.io</id>
-  <link href='//xanalogica.github.io' />
+  <id>//www.thoughtamps.info</id>
+  <link href='//www.thoughtamps.info' />
   <icon>/favicon.ico</icon>
-  <updated>2016-12-29T20:43:28+01:00</updated>
+  <updated>2016-12-29T21:27:06+01:00</updated>
   <author>
     <name type="text">Jeff Rush</name>
   </author>
@@ -16,10 +16,10 @@
 
         <entry>
     <title type="text">About</title>
-    <link href='//xanalogica.github.io/about' />
+    <link href='//www.thoughtamps.info/about' />
     <published>2014-03-09T14:57:00+01:00</published>
     <updated>2014-03-09T14:57:00+01:00</updated>
-    <category scheme='//xanalogica.github.io/tags/lazyblorg' term='lazyblorg' />
+    <category scheme='//www.thoughtamps.info/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -29,12 +29,12 @@ This is a placeholder entry in order to be able to test internal links.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/about-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/about-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">Mini blog entry</title>
-    <link href='//xanalogica.github.io/2013/08/22/testid' />
+    <link href='//www.thoughtamps.info/2013/08/22/testid' />
     <published>2013-08-22T21:06:00+01:00</published>
     <updated>2013-08-22T21:06:00+01:00</updated>
     <summary type='xhtml'>
@@ -46,16 +46,16 @@ Just for testing.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/2013/08/22/testid-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/2013/08/22/testid-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">This is an example blog entry</title>
-    <link href='//xanalogica.github.io/2013/02/14/lazyblorg-example-entry' />
+    <link href='//www.thoughtamps.info/2013/02/14/lazyblorg-example-entry' />
     <published>2013-02-14T19:02:00+01:00</published>
     <updated>2013-02-14T19:02:00+01:00</updated>
-    <category scheme='//xanalogica.github.io/tags/mytest' term='mytest' />
-    <category scheme='//xanalogica.github.io/tags/programming' term='programming' />
+    <category scheme='//www.thoughtamps.info/tags/mytest' term='mytest' />
+    <category scheme='//www.thoughtamps.info/tags/programming' term='programming' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -65,12 +65,12 @@ This is an introduction text which describes the blog entry with some catchy inf
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/2013/02/14/lazyblorg-example-entry-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/2013/02/14/lazyblorg-example-entry-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry14</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry14' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry14' />
     <published>1985-01-01T15:14:00+01:00</published>
     <updated>1985-01-01T15:14:00+01:00</updated>
     <summary type='xhtml'>
@@ -82,12 +82,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry14-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry14-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry13</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry13' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry13' />
     <published>1985-01-01T15:13:00+01:00</published>
     <updated>1985-01-01T15:13:00+01:00</updated>
     <summary type='xhtml'>
@@ -99,12 +99,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry13-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry13-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry12</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry12' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry12' />
     <published>1985-01-01T15:12:00+01:00</published>
     <updated>1985-01-01T15:12:00+01:00</updated>
     <summary type='xhtml'>
@@ -116,12 +116,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry12-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry12-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry11</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry11' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry11' />
     <published>1985-01-01T15:11:00+01:00</published>
     <updated>1985-01-01T15:11:00+01:00</updated>
     <summary type='xhtml'>
@@ -133,12 +133,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry11-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry11-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry10</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry10' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry10' />
     <published>1985-01-01T15:10:00+01:00</published>
     <updated>1985-01-01T15:10:00+01:00</updated>
     <summary type='xhtml'>
@@ -150,12 +150,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry10-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry10-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry9</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry9' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry9' />
     <published>1985-01-01T15:09:00+01:00</published>
     <updated>1985-01-01T15:09:00+01:00</updated>
     <summary type='xhtml'>
@@ -167,12 +167,12 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry9-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry9-from-feed-with-links</id>
   </entry>
 
 <entry>
     <title type="text">old blog entry8</title>
-    <link href='//xanalogica.github.io/1985/01/01/old-entry8' />
+    <link href='//www.thoughtamps.info/1985/01/01/old-entry8' />
     <published>1985-01-01T15:08:00+01:00</published>
     <updated>1985-01-01T15:08:00+01:00</updated>
     <summary type='xhtml'>
@@ -184,7 +184,7 @@ Test entry.
 </p>
 </div>
     </summary>
-    <id>//xanalogica.github.io/1985/01/01/old-entry8-from-feed-with-links</id>
+    <id>//www.thoughtamps.info/1985/01/01/old-entry8-from-feed-with-links</id>
   </entry>
 
 </feed>
