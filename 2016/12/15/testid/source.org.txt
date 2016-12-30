@@ -1,0 +1,11 @@
+CLOSED: [2016-12-30 Fri 00:45]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-12-15 Thu 21:06]
+:END:
+:PROPERTIES:
+:CREATED:  [2016-12-15 Thu 21:06]
+:ID: 2016-12-15-testid
+:END:
+
+This is a test by Jeff.
+

@@ -1,4 +1,3 @@
-* DONE Mini blog entry                                                 :blog:
 CLOSED: [2013-08-22 Thu 21:06]
 :LOGBOOK:
 - State "DONE"       from ""           [2013-08-22 Thu 21:06]
@@ -9,4 +8,8 @@ CLOSED: [2013-08-22 Thu 21:06]
 :END:
 
 Just for testing.
+
+
+
+
 

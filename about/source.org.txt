@@ -1,11 +1,22 @@
-* DONE About                                   :blog:lazyblorg:lb_persistent:
-CLOSED: [2014-03-09 Sun 14:57]
+* DONE About                                                                    :blog:lazyblorg:lb_persistent:
+CLOSED: [2016-12-30 Fri 00:45]
 :LOGBOOK:
-- State "DONE"       from "NEXT"       [2014-03-09 Sun 14:57]
+- State "DONE"       from "NEXT"       [2016-12-30 Fri 14:57]
 :END:
 :PROPERTIES:
-:CREATED:  [2014-03-09 Sun 14:30]
-:ID: 2014-03-09-about
+:CREATED:  [2016-12-30 Fri 12:01]
+:ID: 2016-12-31-about
 :END:
 
-This is a placeholder entry in order to be able to test internal
+(Jeff) Why must I have:
+
+  - a timestamp in the LOGBOOK
+  - a CREATED property
+
+Isn't the date the issue was closed enough?
+
+1. Fork the project
+2. Fix the timezone assertion error
+3. Breaks if timestamps are active
+4. If can't find something in one entry, it flows over into the next one
+

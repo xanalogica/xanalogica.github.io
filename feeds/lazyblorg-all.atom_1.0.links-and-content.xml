@@ -6,7 +6,7 @@
   <id>//www.thoughtamps.info</id>
   <link href='//www.thoughtamps.info' />
   <icon>/favicon.ico</icon>
-  <updated>2016-12-30T00:16:03-06:00</updated>
+  <updated>2016-12-30T01:21:55-06:00</updated>
   <author>
     <name type="text">Jeff Rush</name>
   </author>
@@ -17,14 +17,78 @@
         <entry>
     <title type="text">About</title>
     <link href='//www.thoughtamps.info/about' />
-    <published>2014-03-09T14:57:00-06:00</published>
-    <updated>2014-03-09T14:57:00-06:00</updated>
+    <published>2016-12-30T01:21:55-06:00</published>
+    <updated>2016-12-30T14:57:00-06:00</updated>
     <category scheme='//www.thoughtamps.info/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
 
-This is a placeholder entry in order to be able to test internal links.
+(Jeff) Why must I have:
+
+</p>
+
+<ul>
+<li>a timestamp in the LOGBOOK</li>
+<li>a CREATED property</li>
+</ul>
+
+
+<p>
+
+Isn't the date the issue was closed enough?
+
+</p>
+
+<ol>
+<li>Fork the project</li>
+<li>Fix the timezone assertion error</li>
+<li>Breaks if timestamps are active</li>
+<li>If can't find something in one entry, it flows over into the next one</li>
+</ol>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+(Jeff) Why must I have:
+
+</p>
+
+<ul>
+<li>a timestamp in the LOGBOOK</li>
+<li>a CREATED property</li>
+</ul>
+
+
+<p>
+
+Isn't the date the issue was closed enough?
+
+</p>
+
+<ol>
+<li>Fork the project</li>
+<li>Fix the timezone assertion error</li>
+<li>Breaks if timestamps are active</li>
+<li>If can't find something in one entry, it flows over into the next one</li>
+</ol>
+
+      </div>
+    </content>
+    <id>//www.thoughtamps.info/about-from-feed-with-content</id>
+  </entry>
+<entry>
+    <title type="text">My First Blog Post</title>
+    <link href='//www.thoughtamps.info/2016/12/15/testid' />
+    <published>2016-12-15T21:06:00-06:00</published>
+    <updated>2016-12-15T21:06:00-06:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is a test by Jeff.
 
 </p>
 </div>
@@ -33,13 +97,13 @@ This is a placeholder entry in order to be able to test internal links.
 	
 <p>
 
-This is a placeholder entry in order to be able to test internal links.
+This is a test by Jeff.
 
 </p>
 
       </div>
     </content>
-    <id>//www.thoughtamps.info/about-from-feed-with-content</id>
+    <id>//www.thoughtamps.info/2016/12/15/testid-from-feed-with-content</id>
   </entry>
 <entry>
     <title type="text">Mini blog entry</title>
@@ -163,187 +227,5 @@ bar<br />
       </div>
     </content>
     <id>//www.thoughtamps.info/2013/02/14/lazyblorg-example-entry-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry14</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry14' />
-    <published>1985-01-01T15:14:00-06:00</published>
-    <updated>1985-01-01T15:14:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry14-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry13</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry13' />
-    <published>1985-01-01T15:13:00-06:00</published>
-    <updated>1985-01-01T15:13:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry13-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry12</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry12' />
-    <published>1985-01-01T15:12:00-06:00</published>
-    <updated>1985-01-01T15:12:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry12-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry11</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry11' />
-    <published>1985-01-01T15:11:00-06:00</published>
-    <updated>1985-01-01T15:11:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry11-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry10</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry10' />
-    <published>1985-01-01T15:10:00-06:00</published>
-    <updated>1985-01-01T15:10:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry10-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry9</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry9' />
-    <published>1985-01-01T15:09:00-06:00</published>
-    <updated>1985-01-01T15:09:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry9-from-feed-with-content</id>
-  </entry>
-<entry>
-    <title type="text">old blog entry8</title>
-    <link href='//www.thoughtamps.info/1985/01/01/old-entry8' />
-    <published>1985-01-01T15:08:00-06:00</published>
-    <updated>1985-01-01T15:08:00-06:00</updated>
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
-Test entry.
-
-</p>
-</div>
-    </summary>    <content type='xhtml'>
-      <div xmlns='http://www.w3.org/1999/xhtml'>
-	
-<p>
-
-Test entry.
-
-</p>
-
-      </div>
-    </content>
-    <id>//www.thoughtamps.info/1985/01/01/old-entry8-from-feed-with-content</id>
   </entry>
 </feed>
