@@ -2,16 +2,16 @@
 <feed xmlns='http://www.w3.org/2005/Atom'
       xmlns:thr='http://purl.org/syndication/thread/1.0'
       xml:lang='en-us'>
-  <title type="text">ThoughtAmps</title>
+  <title type="text">thoughtamps</title>
   <id>//www.thoughtamps.info</id>
   <link href='//www.thoughtamps.info' />
   <icon>/favicon.ico</icon>
-  <updated>2016-12-31T05:37:40-06:00</updated>
+  <updated>2017-01-15T05:11:07-06:00</updated>
   <author>
-    <name type="text">Jeff Rush</name>
+    <name type="text">Xanalogica</name>
   </author>
-  <subtitle type="text">ThoughtAmps</subtitle>
-  <rights>All content written by Jeff Rush</rights>
+  <subtitle type="text">thoughtamps</subtitle>
+  <rights>All content written by Xanalogica</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 
         <entry>
