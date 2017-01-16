@@ -1,29 +1,13 @@
 * DONE About                                                                    :blog:lazyblorg:lb_persistent:
-CLOSED: [2016-12-30 Fri 00:45]
+CLOSED: [2017-01-01 Sun 00:00]
 :LOGBOOK:
-- State "DONE"       from "NEXT"       [2016-12-30 Fri 14:57]
+- State "DONE"       from "NEXT"       [2017-01-01 Sun 00:00]
 :END:
 :PROPERTIES:
-:CREATED:  [2016-12-30 Fri 12:01]
-:ID: 2016-12-31-about
+:CREATED:  [2017-01-01 Sun 00:00]
+:ID: 2017-01-01-about
 :END:
 
-(Jeff) Why must I have:
+This is my about post.
 
-  - a timestamp in the LOGBOOK
-  - a CREATED property
-
-Isn't the date the issue was closed enough?
-
-- [ ] Fork the project
-- [ ] Fix the timezone assertion error
-- [ ] Breaks if timestamps are active
-- [ ] If can't find something in one entry, it flows over into the next one
-
-Ask:
-
-- [ ] why ust I have a LOGBOOK when CLOSED holds the timestamp it is finished?
-- [ ] so why do I need a CREATED property?
-- [ ] why not default the ID to the timestamp of when it was closed + the title?
-- [ ] need a hotkey to regenerate the blog!
 

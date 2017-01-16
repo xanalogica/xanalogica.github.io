@@ -6,7 +6,7 @@
   <id>//www.thoughtamps.info</id>
   <link href='//www.thoughtamps.info' />
   <icon>/favicon.ico</icon>
-  <updated>2017-01-15T05:11:07-06:00</updated>
+  <updated>2017-01-16T01:26:32-06:00</updated>
   <author>
     <name type="text">Xanalogica</name>
   </author>
@@ -17,91 +17,25 @@
         <entry>
     <title type="text">About</title>
     <link href='//www.thoughtamps.info/about' />
-    <published>2016-12-30T14:57:00-06:00</published>
-    <updated>2016-12-30T14:57:00-06:00</updated>
+    <published>2017-01-01T00:00:00-06:00</published>
+    <updated>2017-01-01T00:00:00-06:00</updated>
     <category scheme='//www.thoughtamps.info/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
 
-(Jeff) Why must I have:
+This is my about post.
 
 </p>
-
-<ul>
-<li>a timestamp in the LOGBOOK</li>
-<li>a CREATED property</li>
-</ul>
-
-
-<p>
-
-Isn't the date the issue was closed enough?
-
-</p>
-
-<ul>
-<li>[ ] Fork the project</li>
-<li>[ ] Fix the timezone assertion error</li>
-<li>[ ] Breaks if timestamps are active</li>
-<li>[ ] If can't find something in one entry, it flows over into the next one</li>
-</ul>
-
-
-<p>
-
-Ask:
-
-</p>
-
-<ul>
-<li>[ ] why ust I have a LOGBOOK when CLOSED holds the timestamp it is finished?</li>
-<li>[ ] so why do I need a CREATED property?</li>
-<li>[ ] why not default the ID to the timestamp of when it was closed + the title?</li>
-<li>[ ] need a hotkey to regenerate the blog!</li>
-</ul>
 </div>
     </summary>    <content type='xhtml'>
       <div xmlns='http://www.w3.org/1999/xhtml'>
 	
 <p>
 
-(Jeff) Why must I have:
+This is my about post.
 
 </p>
-
-<ul>
-<li>a timestamp in the LOGBOOK</li>
-<li>a CREATED property</li>
-</ul>
-
-
-<p>
-
-Isn't the date the issue was closed enough?
-
-</p>
-
-<ul>
-<li>[ ] Fork the project</li>
-<li>[ ] Fix the timezone assertion error</li>
-<li>[ ] Breaks if timestamps are active</li>
-<li>[ ] If can't find something in one entry, it flows over into the next one</li>
-</ul>
-
-
-<p>
-
-Ask:
-
-</p>
-
-<ul>
-<li>[ ] why ust I have a LOGBOOK when CLOSED holds the timestamp it is finished?</li>
-<li>[ ] so why do I need a CREATED property?</li>
-<li>[ ] why not default the ID to the timestamp of when it was closed + the title?</li>
-<li>[ ] need a hotkey to regenerate the blog!</li>
-</ul>
 
       </div>
     </content>
